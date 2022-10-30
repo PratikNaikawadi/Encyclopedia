@@ -1,0 +1,155 @@
+#maindiv{
+    background:#e4efe9;
+    height: 1000px;
+    
+}
+#anicontainer{
+    height: 1700px;
+}
+#body{
+    background:#c3cfe2;
+    
+}
+#mambody,#fishbody,#repbody,#birbody,#anbody{
+    background:#e4efe9;
+    
+}
+.row{
+    align-content: center;
+    align-items: center;
+    padding: 20px;
+    padding-left: 90px;
+}
+#div1,#div2{
+    box-sizing: border-box;
+    display: block;
+}
+#mamcontainer,#bircontainer,#fishcontainer,#repcontainer,#anicontainer{
+    background:#c3cfe2;
+    padding-top: 30px;
+    
+}
+#mamalert,#biralert,#fishalert,#repalert,#anialert{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#fishalert2,#repalert2,#biralert2,#mamalert2{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#div1,#div2,#div3,#div4{
+    padding: 50px;
+}
+p{
+    font-size:large;
+    text-decoration: none;
+}
+
+#leavealert,#seedalert,#treealert{
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-left: 220px;
+
+}
+#treecontainer,#leavescontainer,#seedscontainer{
+    padding-top: 30px;
+    background:#c3cfe2;
+    padding-bottom: 40px;
+}
+#seedbody,#leavebody,#treebody{
+    background:#e4efe9;
+    
+}
+#culcontainer,#islacontainer,#jaincontainer,#cathcontainer,#hindcontainer{
+    background:#c3cfe2;
+    height: 1200px;
+    padding-top: 30px;
+}
+#culcontainer{
+    height: 1400px;
+}
+#row1,#row2{
+    padding-left: 230px; 
+}
+#row2{
+    padding-bottom: 180px;
+}
+#culalert{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#cultbody,#islabody,#jainbody,#cathbody,#hindbody{
+    background:#e4efe9;
+    height: max-content;
+}
+.card:hover{
+    transform: translate(10px,10px);
+    transition: all 1s;
+}
+.waviy {
+    position: relative;
+    -webkit-box-reflect: below -20px linear-gradient(transparent, rgba(0,0,0,.2));
+    font-size: 60px;
+}
+  .waviy span {
+    font-family: 'Alfa Slab One', cursive;
+    position: relative;
+    display: inline-block;
+    color: #ad36df;
+    text-transform: uppercase;
+    animation: waviy 1s infinite;
+    animation-delay: calc(.1s * var(--i));
+    
+}
+  @keyframes waviy {
+    0%,40%,100% {
+      transform: translateY(0)
+    }
+    20% {
+      transform: translateY(-20px)
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
